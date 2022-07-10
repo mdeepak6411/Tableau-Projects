@@ -1,6 +1,6 @@
 # Tableau-Projects
 
-You can directly see my work on my Tableau Public profile.
+You can see directly my work on my Tableau Public profile.
 Link: https://lnkd.in/dry2BW-T
 
 
